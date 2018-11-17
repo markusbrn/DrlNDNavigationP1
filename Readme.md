@@ -14,5 +14,5 @@ Finally you have to download the environment that is used to simulate the robot 
 
 The unzipped environment files have to be copied in the project repository folder.
 
-#3. Training and Testing the ML Agent
+# 3. Training and Testing the ML Agent
 In order to train and test the agent please start and run the jupyter notebook file from the project repository.
